@@ -4,4 +4,4 @@ config {
 }
 
 select *
-        from ${ref("first_model")}
+        from ${ref("first_view")}
